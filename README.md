@@ -1,7 +1,7 @@
 I help organizations grow by analyzing current processes and developing new efficiencies. I create innovative solutions and then lead teams to implement changes and accomplish more. As an award-winning technology professional, I bring a unique blend of operational leadership experience and practical software engineering knowhow. I analyze procedures, incorporate data points, and streamline processes using technology to boost productivity. By constantly looking for ways to increase output for myself and my team, I use innovative thinking to drive continuous improvement, reset the status quo, and identify opportunities to raise team performance. As a software designer, I use real-world scenarios to create new approaches and develop data-driven solutions that increase productivity, safety, and boost program success.
 
 Key Skills & Areas of Expertise
-✔ Project Management
+✔ Project Management&nbsp;
 ✔ Process Improvement
 ✔ Team Building
 ✔ Employee Development
